@@ -1,0 +1,40 @@
+# Data (too large for git — track with DVC or document in data/README)
+data/raw/**
+data/labeled/**
+data/external/**
+!data/**/.gitkeep
+!data/**/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Model artifacts (large binaries)
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pkl
+checkpoints/
+
+# TACC job output
+*.out
+*.err
