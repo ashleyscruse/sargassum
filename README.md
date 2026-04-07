@@ -76,4 +76,4 @@ sargassum/
 
 ## Acknowledgments
 
-This work is supported by the ASCEND program. Compute resources provided by the Texas Advanced Computing Center (TACC) through the Morehouse Supercomputing Facility.
+This work is supported by the ASCEND program. Compute resources provided by the Texas Advanced Computing Center (TACC) through the [Morehouse Supercomputing Facility](https://github.com/morehouse-supercomputing).
